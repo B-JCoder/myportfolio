@@ -9,7 +9,7 @@ const AboutSection = () => {
           <div className="glass-card aspect-square relative z-10 p-0 overflow-hidden group">
             <img
               src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=800"
-              alt="Workspace"
+              alt="Bilal Jadi - Full Stack Developer Workspace"
               className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
             />
           </div>
